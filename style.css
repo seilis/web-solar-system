@@ -1,0 +1,37 @@
+html {
+	min-height:100%;
+}
+
+body {
+	background: #333;
+	background: linear-gradient(to bottom, #eee, #aaa);
+	color: #000;
+	font-family: sans;
+	font-size:10pt;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+    background: #aaa;
+    margin: 0;
+    padding: 1em;
+}
+
+footer {
+    color: #777;
+    text-align: center;
+}
+
+h1 {
+	color: #000;
+}
+
+#page {
+    width: 800px;
+    height: 800px;
+    margin: 2em auto 2em auto;
+    background: #eeeeee;
+    border-radius: 0.5em;
+    box-shadow: 0.1em 0.1em 0.2em #222222;
+}
