@@ -1,4 +1,4 @@
-// Copyright Aaron Seilis 2019
+// Copyright Aaron Seilis 2019-2021
 
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d');
